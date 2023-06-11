@@ -1,81 +1,57 @@
-<header>
+# Hi there 👋, Phineas here. 
+<!-- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/> -->
 
 <!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
+**Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Communicate using Markdown
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-</header>
+I am an undergraduate double majoring in Computer science and Data Analytics at Denison University. Python, R, C++, SQL are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+* **I am interested in Artificial Intelligence, Machine Learning, and anything DATA**
+- 🌱 I’m currently learning ...
+  - NLP
+  - Computer Vision
+  - AWS tools like Amazon S3, Amazon SageMaker
+  - AI applications using new and fancy models 
+- 💼 I’m looking forward to a career in ML Engineer and Data Science.
+- Outside tech, 🤺 I am a Sabre Fencer at Denison University, 🎵 listen to music, 🎥 Movie addict, and 🦄 anime fan.
+- 📫 Reach out to me at: <a href="pham_p1@denison.edu">pham_p1@denison.edu</a>
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+<!-- __Check out my GitHub repository:__
 
-## Step 1: Add headers
+<div>
+  <p>
+    <a href="https://github.com/Bhargavi-hash/HotelFranchiseDBMS.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
 
-_Welcome to "Communicate using Markdown"! :wave:_
 
-**What is _Markdown_?** Markdown is a [lightweight syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for communicating on GitHub. You can format text to add a heading, lists, **bold**, _italics_, tables, and many other stylings. You can use Markdown in most places around GitHub:
+<h2>👀 My github Stats</h2>
 
-- Comments on [issues](https://docs.github.com/issues/tracking-your-work-with-issues/about-issues), [pull requests](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests), and [discussions](https://docs.github.com/discussions/collaborating-with-your-community-using-discussions/about-discussions)
-- Files with the `.md` or `.markdown` extension
-- Sharing snippets of text in [Gists](https://docs.github.com/github/writing-on-github/editing-and-sharing-content-with-gists/creating-gists)
+<div>
+<!--   <p align="center">
+    <b><em>Now listening to:</em></b> <br/>
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=Bhargavi-hash&cover_image=true&theme=novatorem" alt="Now Listenting to" />
+  </p> -->
+  
+<!--   <p align="center">
+  <b><em>GitHub Stats:</em></b> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhargavi-hash" alt="GitHub Stats" /> <br/><br/>
+  
+</div>
 
-**What is a _header_?** A header is a larger bit of text at the beginning of a section. There are six sizes.
+![My github status](https://github-readme-stats.vercel.app/api?username=Bhargavi-hash&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavi-hash&layout=compact)
 
-### Example
+---------------------------------------------------------------------------------------------------------------------
+Credits: <a href="https://github.com/Bhargavi-hash">Bhargavi-hash</a>
 
-```md
-# This is an `<h1>` header, which is the largest
-
-## This is an `<h2>` header
-
-###### This is an `<h6>` header, which is the smallest
-```
-
-#### How it looks
-
-# This is an `<h1>` header, which is the largest
-
-## This is an `<h2>` header
-
-###### This is an `<h6>` header, which is the smallest
-
-### :keyboard: Activity: Edit your file with headers
-
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Open the **pull requests** tab.
-1. Click **New pull request**, for the branches to compare, select `base: main` and `compare: start-markdown`.
-1. Click **Create pull request**.
-1. In this pull request, go to the **Files changed** tab. We made an empty file `index.md` for you.
-1. Select **Edit file** from the three dotted **...** menu in the upper right corner of the file view on `index.md`.
-1. On the **Edit file** tab, add a `#`, followed by a **space**, before any content you like to make it an H1 Header. You can add more headers, using one to six `#` characters followed by a **space**.
-1. Above your new content, click **Preview**.
-1. At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file.
-1. Click **Commit changes**.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/skills/.github/discussions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+Date: 18/11/2021 --> 
