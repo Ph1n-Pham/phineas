@@ -18,8 +18,8 @@ I am an undergraduate double majoring in Computer science and Data Analytics at 
   - AWS tools like Amazon S3, Amazon SageMaker
   - AI applications using new and fancy models 
 
-In my free time:
-- 🤺 I am a Sabre Fencer at Denison University
+Outside tech, I am:
+- 🤺 a Sabre Fencer at Denison University
 - 🎥 movie addict and 🦄 anime fan
 - 🎧 listen to music
 
