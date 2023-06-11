@@ -9,16 +9,20 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate double majoring in Computer science and Data Analytics at Denison University. Python, R, C++, SQL are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **✨ I am interested in Artificial Intelligence, Machine Learning, anything DATA**
+I am an undergraduate double majoring in Computer science and Data Analytics at Denison University. Python, R, C++, SQL are the programming languages I am good at. I love to learn and build something new, innovative and creative. 💼 I’m looking forward to a career in ML Engineer and Data Science. 
+
+**✨ I am interested in Artificial Intelligence, Machine Learning, anything DATA**
 - 🌱 I’m currently learning ...
   - NLP
   - Computer Vision
   - AWS tools like Amazon S3, Amazon SageMaker
   - AI applications using new and fancy models 
-- 💼 I’m looking forward to a career in ML Engineer and Data Science.
-- 🤺 I am a Sabre Fencer at Denison University, 🎵 listen to music, 🎥 movie addict, and 🦄 anime fan.
-- 📫 Reach out to me at: <a href="pham_p1@denison.edu">pham_p1@denison.edu</a>
+
+In my free time:
+- 🤺 I am a Sabre Fencer at Denison University
+- 🎥 movie addict and 🦄 anime fan
+- 🎧 listen to music
+
 
 <!-- __Check out my GitHub repository:__
 
