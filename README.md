@@ -17,7 +17,7 @@ I am an undergraduate double majoring in Computer science and Data Analytics at 
   - AWS tools like Amazon S3, Amazon SageMaker
   - AI applications using new and fancy models 
 - 💼 I’m looking forward to a career in ML Engineer and Data Science.
-- Outside tech, 🤺 I am a Sabre Fencer at Denison University, 🎵 listen to music, 🎥 movie addict, and 🦄 anime fan.
+- 🤺 I am a Sabre Fencer at Denison University, 🎵 listen to music, 🎥 movie addict, and 🦄 anime fan.
 - 📫 Reach out to me at: <a href="pham_p1@denison.edu">pham_p1@denison.edu</a>
 
 <!-- __Check out my GitHub repository:__
