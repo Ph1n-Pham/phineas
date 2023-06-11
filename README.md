@@ -10,7 +10,7 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am an undergraduate double majoring in Computer science and Data Analytics at Denison University. Python, R, C++, SQL are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Artificial Intelligence, Machine Learning, and anything DATA**
+* **✨ I am interested in Artificial Intelligence, Machine Learning, and anything DATA**
 - 🌱 I’m currently learning ...
   - NLP
   - Computer Vision
