@@ -19,9 +19,9 @@ I am an undergraduate double majoring in Computer science and Data Analytics at 
   - AI applications using new and fancy models 
 
 **Outside tech, I am:**
-- 🤺 a Sabre Fencer at Denison University
+- 🤺 Sabre Fencer at Denison University
 - 🎥 movie addict and 🦄 anime fan
-- 🎧 listen to music
+- 🎧 listening to music
 
 
 <!-- __Check out my GitHub repository:__
