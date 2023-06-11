@@ -15,10 +15,10 @@ I am an undergraduate double majoring in Computer science and Data Analytics at 
 - 🌱 I’m currently learning ...
   - NLP
   - Computer Vision
-  - AWS tools like Amazon S3, Amazon SageMaker
+  - AWS tools like Amazon S3, Amazon SageMaker, etc.
   - AI applications using new and fancy models 
 
-Outside tech, I am:
+**Outside tech, I am:**
 - 🤺 a Sabre Fencer at Denison University
 - 🎥 movie addict and 🦄 anime fan
 - 🎧 listen to music
