@@ -44,5 +44,5 @@ I am an undergraduate double majoring in Computer science and Data Analytics at 
 
 **You can connect with me through:**
 
-[<img src="image/linkedin_qr.jpg" width="18%" height="18%">](https://www.linkedin.com/in/phineaspham/)  [<img src="image/github_qr1.png" width="18%" height="18%">](https://github.com/Ph1n-Pham)
+[<img src="image/linkedin_qr.jpg" width="18%" height="18%">](https://www.linkedin.com/in/phineaspham/)  [<img src="image/github_qr.jpg" width="18%" height="18%">](https://github.com/Ph1n-Pham)
 
