@@ -42,5 +42,5 @@ I am an undergraduate double majoring in Computer science and Data Analytics at 
 - 🎥 movie addict and 🦄 anime fan
 - 🎧 listening to music
 
-
+[<img src="image/linkedin_qr.png" width="18%" height="18%">](https://www.linkedin.com/in/phineaspham/) or [<img src="image/github_qr1.png" width="18%" height="18%">](https://github.com/Ph1n-Pham)
 
