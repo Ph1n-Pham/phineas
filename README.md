@@ -14,7 +14,7 @@ I am an undergraduate double majoring in Computer science and Data Analytics at 
 **✨ I am interested in Artificial Intelligence, Machine Learning, anything DATA**
 
 **🌱 I’m currently learning ...**
-  - NLP
+  - LLM
   - Computer Vision
   - AWS tools like Amazon S3, Amazon SageMaker, etc.
   - AI applications using new and fancy models 
