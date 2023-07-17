@@ -41,8 +41,9 @@ I am an undergraduate double majoring in Computer science and Data Analytics at 
 - 🤺 Sabre Fencer at Denison University
 - 🎥 movie addict and 🦄 anime fan
 - 🎧 listening to music
+- Other: 🇻🇳 ♒️ 🏸 🏓 ♟ 🎮 🍜 🍣 🍮 🎸
 
-**You can connect with me through:**
+**Connect with me through:**
 
 [<img src="image/linkedin_qr.jpg" width="18%" height="18%">](https://www.linkedin.com/in/phineaspham/)  [<img src="image/github_qr.jpg" width="18%" height="18%">](https://github.com/Ph1n-Pham)
 
