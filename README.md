@@ -41,7 +41,7 @@ I am an undergraduate double majoring in Computer science and Data Analytics at 
 - 🤺 Sabre Fencer at Denison University
 - 🎥 movie addict and 🦄 anime fan
 - 🎧 listening to music
-- Other: 🇻🇳 ♒️ 🏸 🏓 ♟ 🎮 🍜 🍣 🍮 🎸
+- Other: 🇻🇳 ♒️ 🏸 🏓 ♟ 🃏 🎮 🍜 🍣 🍮 🎸
 
 **Connect with me through:**
 
